@@ -1,8 +1,6 @@
 """
-Name: Nikit Parakh
-CC3 - Starter Code
-CSE 331 Fall 2020
-Professor Sebnem Onsay
+Nikit Parakh
+Missing Element Search using Recursion
 """
 import math
 from typing import List
